@@ -1,0 +1,20 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 12/11/2017, 06:38:28 PM
+    Author     : jorge
+*/
+
+.backgraund_logo{
+    background: rgba(252,114,35,1);
+background: -moz-linear-gradient(top, rgba(252,114,35,1) 0%, rgba(252,114,35,1) 3%, rgba(255,255,255,1) 36%, rgba(254,254,254,1) 64%, rgba(252,114,35,1) 100%);
+background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(252,114,35,1)), color-stop(3%, rgba(252,114,35,1)), color-stop(36%, rgba(255,255,255,1)), color-stop(64%, rgba(254,254,254,1)), color-stop(100%, rgba(252,114,35,1)));
+background: -webkit-linear-gradient(top, rgba(252,114,35,1) 0%, rgba(252,114,35,1) 3%, rgba(255,255,255,1) 36%, rgba(254,254,254,1) 64%, rgba(252,114,35,1) 100%);
+background: -o-linear-gradient(top, rgba(252,114,35,1) 0%, rgba(252,114,35,1) 3%, rgba(255,255,255,1) 36%, rgba(254,254,254,1) 64%, rgba(252,114,35,1) 100%);
+background: -ms-linear-gradient(top, rgba(252,114,35,1) 0%, rgba(252,114,35,1) 3%, rgba(255,255,255,1) 36%, rgba(254,254,254,1) 64%, rgba(252,114,35,1) 100%);
+background: linear-gradient(to bottom, rgba(252,114,35,1) 0%, rgba(252,114,35,1) 3%, rgba(255,255,255,1) 36%, rgba(254,254,254,1) 64%, rgba(252,114,35,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fc7223', endColorstr='#fc7223', GradientType=0 );
+}
